@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<poo2-ac1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.poo2ac1.DemoApplication",
+            "projectName": "poo2-ac1",
+            "args": ""
+        }
+    ]
+}
